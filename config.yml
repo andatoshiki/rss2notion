@@ -48,7 +48,9 @@ feeds:
 
   # ssmh wnacg.wtf
   - url: "https://rsshub.app/ssmh"
-  # - url: ""
+
+  # 005.tv
+  - url: "https://rsshub.app/005tv/zx/latest"
   # - url: ""
   # - url: ""
   # - url: ""
