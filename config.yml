@@ -1,0 +1,16 @@
+expires: 259200 # 3days
+
+clean:
+  status:
+    - "read"
+
+feeds:
+  - url: "https://github.com/andatoshiki.private.atom?token=AYGHXCOVY73JLH5YUPO3SGWBOY26Y"
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/2/rss.xml"
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/3/rss.xml"
+    expires: 86400
+    tags:
+      - "anime"
+      - "download"
+      - "magnet"
+      - "resources"
