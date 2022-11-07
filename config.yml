@@ -42,7 +42,9 @@ feeds:
 
   # steam
   - url: "https://docs.rsshub.app/game.html#steam"
-  # - url: ""
+
+  # hanime
+  - url: "https://rsshub.app/hanime/video"
   # - url: ""
   # - url: ""
   # - url: ""
