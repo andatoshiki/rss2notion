@@ -51,7 +51,10 @@ feeds:
 
   # 005.tv
   - url: "https://rsshub.app/005tv/zx/latest"
-  # - url: ""
+
+  # youtube
+  # limux tech tips
+  - url: "https://rsshub.app/youtube/user/LinusTechTips"
   # - url: ""
   # - url: ""
   # - url: ""
