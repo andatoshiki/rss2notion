@@ -5,9 +5,56 @@ clean:
     - "read"
 
 feeds:
+
+  # @andatoshiki's private github feeds
   - url: "https://github.com/andatoshiki.private.atom?token=AYGHXCOVY73JLH5YUPO3SGWBOY26Y"
+
+  # 动漫花园 https://dmhy.anoneko.com/
+  # 动画
   - url: "https://dmhy.anoneko.com/topics/rss/sort_id/2/rss.xml"
+  # 音乐
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/4/rss.xml"
+  # 漫画
   - url: "https://dmhy.anoneko.com/topics/rss/sort_id/3/rss.xml"
+  # 日剧
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/6/rss.xml"
+  # RAW
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/7/rss.xml"
+  # 特摄
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/12/rss.xml"
+  # 其他
+  - url: "https://dmhy.anoneko.com/topics/rss/sort_id/1/rss.xml"
+
+  # age acg https://www.agemys.net/
+  - url: "https://rsshub.app/agefans/update"
+
+  # nyaa.si normal
+  - url: "https://nyaa.si/?page=rss"
+
+  # skukebei.nyaa.si nsfw 
+  - url: "https://sukebei.nyaa.si/?page=rss"
+
+  # bangumi
+  - url: "https://rsshub.app/bangumi/tv/calendar/today"
+
+  # 3dmgames
+  - url: "https://rsshub.app/3dm/news"
+
+  # steam
+  - url: "https://docs.rsshub.app/game.html#steam"
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+  # - url: ""
+
     expires: 86400
     tags:
       - "anime"
