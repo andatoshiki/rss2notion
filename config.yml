@@ -55,6 +55,9 @@ feeds:
   # youtube
   # limux tech tips
   - url: "https://rsshub.app/youtube/user/LinusTechTips"
+
+  # github
+  - url: "https://rsshub.app/youtube/user/GitHub"
   # - url: ""
   # - url: ""
   # - url: ""
